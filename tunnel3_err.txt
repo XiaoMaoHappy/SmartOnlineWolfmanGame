@@ -1,0 +1,22 @@
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Warning: Permanently added 'localhost.run' (ED25519) to the list of known hosts.
+
+===============================================================================
+Welcome to localhost.run!
+
+To set up and manage custom domains go to https://admin.localhost.run/
+
+More details on custom domains (and how to enable subdomains of your custom
+domain) at https://localhost.run/docs/custom-domains
+
+If you get a permission denied error check the faq for how to connect with a key or
+create a free tunnel without a key at [http://localhost:3000/docs/faq#generating-an-ssh-key].
+
+To explore using localhost.run visit the documentation site:
+https://localhost.run/docs/
+
+===============================================================================
+
+
+** your connection id is 120.253.216.53:15992, please mention it if you send me a message about an issue. **
+
