@@ -1,0 +1,5 @@
+狼人杀游戏服务器启动中...
+请在浏览器打开: http://127.0.0.1:5000/
+按 Ctrl+C 停止服务器
+ * Serving Flask app 'app'
+ * Debug mode: off
